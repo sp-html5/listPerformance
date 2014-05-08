@@ -1,0 +1,11 @@
+[
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "true", "checkout":"true", "lockrecord":"true"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "true", "checkout":"false", "lockrecord":"true"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "false", "checkout":"true", "lockrecord":"false"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "true", "checkout":"false", "lockrecord":"true"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "false", "checkout":"true", "lockrecord":"true"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "true", "checkout":"false", "lockrecord":"true"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "false", "checkout":"true", "lockrecord":"false"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "true", "checkout":"false", "lockrecord":"true"},
+    { "type": "doc", "title": "MyDocument.doc", "favorite": "true", "checkout":"true", "lockrecord":"false"}
+]
